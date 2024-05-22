@@ -1,0 +1,12 @@
+Id tarjeta de socio: 1
+Nombre cliente: mingo
+Apellido cliente: bimbo
+Tarjeta de credito: **** **** **** 3456
+Nombre del servicio: Bordado de pantalon
+Descripcion del servicio: Este servicio consiste en realizar bordados en todo tipo de prendas
+Precio del servicio: 35.0
+IVA del servicio: 1.21
+Total del servicio: 42.35
+Valoracion del servicio: 1
+Empleado: Elena
+Area de trabajo: Servicios

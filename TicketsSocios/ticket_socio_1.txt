@@ -1,0 +1,10 @@
+Id tarjeta de socio: 1
+Nombre cliente: mingo
+Apellido cliente: bimbo
+Tarjeta de credito: **** **** **** 3456
+Detalles de la venta:
+3XSecadora 55.0 199.65
+-----------------------------
+Total de la venta: 199.65
+Empleado: Ana
+Area de trabajo: Encargado de Electrodomesticos
